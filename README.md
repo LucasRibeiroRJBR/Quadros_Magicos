@@ -3,7 +3,7 @@ Programa de adivinhação de números de 1~60
 
 >ScreenShots
 
-**Tela inicial**
+**Tela inicial**  
 ![](https://snipboard.io/YTdGB0.jpg)
 
 **Número pensado ```25```. O número está contido nos quadros ```Verde```, ```Amarelo``` e ```Marrom```. Janela do resultado**

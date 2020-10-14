@@ -27,7 +27,7 @@ Exemplo: a pessoa pensou no número ```25```. ```25``` está nos quadros ```Verd
 
 ---
 ## Lucas Ribeiro
-[![GitHub](https://user-images.githubusercontent.com/53449579/95284130-c9631400-0833-11eb-8948-41471baf8c88.png)](https://github.com/LucasRibeiroRJBR)   [**LucasRibeiroRJBR**](https://github.com/LucasRibeiroRJBR)  
-[![LinkedIn](https://user-images.githubusercontent.com/53449579/95283692-c4519500-0832-11eb-803e-75db4a3bd1ef.png)](https://www.linkedin.com/in/lucas-santos-ribeiro/)   [**Lucas Ribeiro**](https://www.linkedin.com/in/lucas-santos-ribeiro/)  
-[![Twitter](https://user-images.githubusercontent.com/53449579/95283384-1219cd80-0832-11eb-8ec3-c2c44c020030.png)](https://www.twitter.com/lucas_sanri)   [**@lucas_sanri**](https://www.twitter.com/lucas_sanri)  
-[![Instagram](https://user-images.githubusercontent.com/53449579/95283610-99674100-0832-11eb-86c5-fd3e71647f57.png)](https://www.instagram.com/lucas_sanri/)   [**@lucas_sanri**](https://www.instagram.com/lucas_sanri/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasRibeiroRJBR)](https://github.com/LucasRibeiroRJBR)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-santos-ribeiro//)](https://www.linkedin.com/in/lucas-santos-ribeiro/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucas_sanri)](https://twitter.com/lucas_sanri)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=flat-square&labelColor=23E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/lucas_sanri/)](https://www.instagram.com/lucas_sanri/)
